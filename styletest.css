@@ -1,9 +1,9 @@
 body {
-  background-color: #FFF;
+  background-color: #ffffff;
 }
 
 h1  {
-  color: #000;
+  color: #000000;
 }
 
 div#test01 {
@@ -12,4 +12,26 @@ div#test01 {
 
 .important {
   color: #a00;
+}
+
+#members{
+  border-collapse: collapse;
+}
+td,th{
+  border: solid thin;
+}
+.el{
+  background-color: aqua;
+}
+.ol{
+  background-color: yellow;
+}
+.name{
+  text-align: center;
+  color: #00a;
+}
+
+.last3{
+  font-weight: bold;
+  text-decoration: underline;
 }
